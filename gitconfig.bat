@@ -1,2 +1,2 @@
-git config user.name asd
-git config user.email asd
+git config user.namecsilla
+git config user.email khf@123
